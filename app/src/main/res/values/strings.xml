@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Greh Bojh</string>
+    <string name="yourWeightOnDifferentPlanets">What will be your Weight on Different Planets</string>
+    <string name="selected_item">Selected item:</string>
+    <string name="goButton">Go!</string>
+    <string name="choosePlanet">Choose Planet</string>
+    <string name="inputedWeight">Please Enter Your Weight</string>
+    <string name="enterWeight">Please Enter Your Weight</string>
+    <string name="developer">Developed By: Nitesh</string>
+    <string name="greet">Hello to second activity</string>
+    <string name="outputWeight">Output Weight</string>
+
+    <string-array name="Planets">
+        <item>Select Planet</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
